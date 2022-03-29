@@ -2,8 +2,4 @@ Created txt file
 
 Test branch
 
-<<<<<<< HEAD
-=======
-new Test branch
->>>>>>> main
-
+new branch Test
