@@ -1,19 +1,2 @@
-main txt file created
 
-
-checking 1.txt file
-
-new update
-
-<<<<<<< HEAD
-
-new update 4
-
-
-=======
-<<<<<<< HEAD
-new update 4
-=======
-new update 3
->>>>>>> 3bb31173f73e5590080ac44290a05c5689e861a6
->>>>>>> parent of f28be26 (new commit checking stash)
+m1
